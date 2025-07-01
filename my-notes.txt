@@ -1,0 +1,2 @@
+root modules: orchestrate the infrastrcture by composing the child modules
+child modules: Defines reusable resource blocks with the variables and the output.
